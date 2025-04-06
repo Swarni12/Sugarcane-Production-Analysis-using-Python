@@ -21,5 +21,5 @@ This project explores sugarcane production data using Exploratory Data Analysis 
 
 ## 📁 Repository Contents
 - `sugarcane_notebook.ipynb` – Main notebook containing data cleaning and EDA
-- `data/` – (Optional) Include the CSV/Excel file if it’s allowed
+- `data` – Dataset used for analysis
 - `README.md` – Project description
